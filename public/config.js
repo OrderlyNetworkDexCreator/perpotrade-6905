@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Perpo.trade is a next-generation decentralized exchange (DEX) for perpetual futures trading, combining lightning-fast execution, ultra-low fees, and advanced trading tools in a secure, non-custodial environment.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Rewards,Swap,Points",
+  "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Markets,Rewards,Vaults,Leaderboard,Points",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
