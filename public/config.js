@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "perpotrade",
-  "VITE_ORDERLY_BROKER_NAME": "perpotrade",
+  "VITE_ORDERLY_BROKER_NAME": "Perpo.trade",
   "VITE_BROKER_EOA_ADDRESS": "0xbf542b6d25100d55fa80fd042a7a99550eefa2f9",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "",
-  "VITE_APP_NAME": "perpotrade",
+  "VITE_APP_NAME": "Perpo.trade",
   "VITE_APP_DESCRIPTION": "Perpo.trade is a next-generation decentralized exchange (DEX) for perpetual futures trading, combining lightning-fast execution, ultra-low fees, and advanced trading tools in a secure, non-custodial environment.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
