@@ -95,6 +95,10 @@
   --oui-spacing-xl: 33.75rem;
 }
 
+.oui-scaffold-footer-powered-by {
+  display: none;
+}
+
 html, body {
   font-family: 'IBM Plex Sans', sans-serif !important;
   font-size: 15.5px !important;
