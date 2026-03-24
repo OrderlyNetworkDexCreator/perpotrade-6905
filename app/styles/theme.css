@@ -99,6 +99,10 @@
   display: none;
 }
 
+.oui-box.oui-flex.oui-flex-row.oui-items-center.oui-justify-start.oui-flex-nowrap.oui-text-primary-light.oui-fill-primary-light.hover\:oui-text-primary-darken.oui-cursor-pointer.oui-text-2xs.md\:oui-text-xs.xl\:oui-text-sm {
+  display: none !important;
+}
+
 html, body {
   font-family: 'IBM Plex Sans', sans-serif !important;
   font-size: 15.5px !important;
