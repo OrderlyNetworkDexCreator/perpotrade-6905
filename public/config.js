@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
-  "VITE_TWITTER_URL": "",
+  "VITE_TWITTER_URL": "https://x.com/LiqZerocom",
   "VITE_SEO_SITE_NAME": "LiqZero.com – Decentralized Perpetual Exchange",
   "VITE_SEO_SITE_DESCRIPTION": "LiqZero.com is a next-generation decentralized exchange (DEX) for perpetual futures trading, offering low fees, deep liquidity, and seamless on-chain execution.",
   "VITE_SEO_SITE_URL": "https://liqzero.com",
